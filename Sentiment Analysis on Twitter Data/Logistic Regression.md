@@ -25,7 +25,3 @@ This project focuses on sentiment analysis of Twitter data using a Logistic Regr
 - **Training Accuracy:** 81%
 - **Testing Accuracy:** 78%
 
-## How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/Deep-Learning.git
