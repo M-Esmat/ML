@@ -8,7 +8,7 @@ import seaborn as sns
 from sklearn.cluster import KMeans
 
 # Load the dataset
-df = pd.read_csv(r'D:\projects\z datasets\Mall-Customer-Segmentation-Data\Mall_Customers.csv')
+df = pd.read_csv('Mall_Customers.csv')
 
 # Display basic information about the dataset
 print("Dataset Head:")
