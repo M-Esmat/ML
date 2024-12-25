@@ -1,4 +1,3 @@
-# customer_segmentation.py
 
 # Import necessary libraries
 import numpy as np
