@@ -19,7 +19,7 @@ nltk.download('punkt')
 nltk.download('wordnet')
 
 # Constants
-DATA_PATH = r'D:\projects\z datasets\imdb-50K-movie-reviews\IMDB Dataset.csv'
+DATA_PATH = r'imdb-50K-movie-reviews\IMDB Dataset.csv'
 
 def load_data(path):
     """Load the dataset from the given path."""
